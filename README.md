@@ -14,7 +14,7 @@ A fun and interactive game that tests your memory skills! Follow the sequence of
 
 ## Demo
 
-Try the live demo [here](#).
+Try the live demo [here](https://shafayat666.github.io/web-js-simon-game/).
 
 ![preview](./preview.png)
 
